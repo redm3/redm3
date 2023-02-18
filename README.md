@@ -17,7 +17,17 @@
       * 💻 Checkout my interactive Web3 portfolio: <a href="https://redm3.github.io/marco-wells/" target="_blank" rel="noreferrer">it's still under construction!</a>
     </p>
 
+## 📊 My Github Stats
 
+  <br/>
+    <a href="https://github.com/redm3/github-readme-stats"><img alt="Narayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=redm3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/redm3/github-readme-stats"><img alt="redm3's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redm3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+
+
+<br/>
+<!-- 
 =
 <h3 align="left">Languages, Tools & Frameworks:</h3>
 <p>
@@ -58,6 +68,8 @@
       alt="Foundry" width="60" height="60" /> 
 </a>
 </p>
+
+-->
 <!-- <p>
   <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Keyrxng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css"
