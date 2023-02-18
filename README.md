@@ -70,6 +70,7 @@
 </p>
 
 -->
+<!--
 <!-- <p>
   <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Keyrxng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css"
@@ -77,17 +78,20 @@
     bg_color=#808080/>
 </p>
  -->
+ <!--
 <p>
   <img align="right" 
     src="https://github-readme-stats.vercel.app/api?username=redm3&show_icons=true&count_private=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Keyrxng" />
 </p>
-
+-->
+<!--
 <p>
    <img align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=redm3&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
         alt="Keyrxng" />
 </p>
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/redm3/redm3/output/github-snake.svg#gh-light-mode-only" />
