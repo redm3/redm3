@@ -11,7 +11,7 @@
   <p align="center">
       * 💻 Discord: redm3.eth#8004 <br>
       * 📫 Email: marco.m.wells@gmail.com <br>
-      * 💻 Checkout my CV <a href="https://redm3.github.io/marco-wells/" target="_blank" rel="noreferrer">it's still under construction!</a>
+      * 💻 Checkout my CV <a href="https://redm3.github.io/marco-wells/" target="_blank" rel="noreferrer">Click here 🖱️ </a>
     </p>
 
 ## 📊 My Github Stats
