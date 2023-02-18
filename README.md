@@ -78,9 +78,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keyrxng/keyrxng/output/github-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/redm3/redm3/output/github-snake.svg#gh-light-mode-only" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keyrxng/keyrxng/output/github-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/redm3/redm3/output/github-snake-dark.svg#gh-dark-mode-only" />
 </p>
