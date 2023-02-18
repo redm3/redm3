@@ -14,7 +14,7 @@
       * 💻 Discord: redm3.eth#8004 <br>
       * 📫 Email: marco.m.wells@gmail.com <br>
       * 📫 Currently improving on: social growth and networking<br>
-      * 💻 Checkout my interactive Web3 portfolio: <a href="https://redm3.github.io/marco-wells/" target="_blank" rel="noreferrer">it's still under construction!</a>
+      * 💻 Checkout my CV <a href="https://redm3.github.io/marco-wells/" target="_blank" rel="noreferrer">it's still under construction!</a>
     </p>
 
 ## 📊 My Github Stats
