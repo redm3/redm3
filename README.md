@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center" fill="color: #3498DB;">🔑 Welcome to redm3 Profile 💻</h1>
+<h1 align="center" fill="color: #3498DB;">⚙️ Welcome to Marco's Profile 💻</h1>
 <h2 align="center" style="color: #34495E;">Full Stack Web3 | Mechatronics Graduate</h2>
 <p align="center">
   <a href="https://github.com/redm3">
