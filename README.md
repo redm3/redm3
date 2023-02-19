@@ -1,5 +1,5 @@
 <h1 align="center" fill="color: #3498DB;">⚙️ Welcome to Marco's Profile 💻</h1>
-<h2 align="center" style="color: #34495E;">| Mechatronics Graduate | Software Dev | Web3 |</h2>
+<h2 align="center" style="color: #34495E;">| Mechatronics Grad | Software Dev | Web3 |</h2>
 <p align="center">
   <a href="https://github.com/redm3">
     <img src="https://komarev.com/ghpvc/?username=redm3" alt="redm3's GitHub stats" />
