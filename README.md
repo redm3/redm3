@@ -14,7 +14,7 @@
       * 💻 Checkout my CV <a href="https://redm3.github.io/marco-wells/" target="_blank" rel="noreferrer">Click here 🖱️ </a><br>
       
           █▀▀ █ █░░ █▀▀ ▄█ █░█
-       *  █▀░ █ █▄▄ ██▄ ░█ ▀▀█  website coming soon!<br>
+       *  █▀░ █ █▄▄ ██▄ ░█ ▀▀█  website coming soon!
   <br>
     </p>
 
