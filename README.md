@@ -11,8 +11,9 @@
   <p align="center">
       * 💻 Discord: redm3.eth#8004 <br>
       * 📫 Email: marco.m.wells@gmail.com <br>
-      * 💻 Checkout my CV <a href="https://redm3.github.io/marco-wells/" target="_blank" rel="noreferrer">Click here 🖱️ </a>
-      * 📄1️⃣4️⃣ File14 website coming soon! <br>
+      * 💻 Checkout my CV <a href="https://redm3.github.io/marco-wells/" target="_blank" rel="noreferrer">Click here 🖱️ </a><br>
+      * 📄1️⃣4️⃣ File14 website coming soon! 
+  <br>
     </p>
 
 ## 📊 My Github Stats
