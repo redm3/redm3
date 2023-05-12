@@ -13,7 +13,7 @@
       * 📫 Email: marco.m.wells@gmail.com <br>
       * 💻 Checkout my CV <a href="https://marcowells.com/" target="_blank" rel="noreferrer">Click here 🖱️ </a><br>
       *  🅵🅸🅻🅴1️⃣4️⃣ <a href="https://redm3.github.io/webgl/" target="_blank" rel="noreferrer">FILE 14 </a><br>
-      *  <a href="[https://redm3.github.io/webgl/](https://www.tradingview.com/script/8kqkXhPO-SuperTrend-MACD-EMA-volume-increase/?utm_source=notification_email&utm_medium=email&utm_campaign=notification_vote)" target="_blank" rel="noreferrer">Pine script Trading Indicator </a><br>
+      *  <a href="https://www.tradingview.com/script/8kqkXhPO-SuperTrend-MACD-EMA-volume-increase/?utm_source=notification_email&utm_medium=email&utm_campaign=notification_vote" target="_blank" rel="noreferrer">Pine script Trading Indicator </a><br>
   <p align="center">File14 studios produces engaging & robust Web3/Blockchain Solutions</p>
 <p align="center">An NFT & DeFi project soon to come, in conjunction with <a href="https://redacted.finance/">Redacted</a>'s protocols 👀 stay tuned!</p>
   <br>
