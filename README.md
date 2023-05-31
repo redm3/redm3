@@ -99,7 +99,6 @@
   <img src="https://profile-counter.glitch.me/redm3/count.svg" />
 </p>
 -->
-https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/redm3/redm3/output/github-snake.svg#gh-light-mode-only" />
