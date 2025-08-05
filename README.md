@@ -10,7 +10,7 @@
 
   <p align="center">
       * 💻 Discord: redm3.eth#8004 <br>
-      * 📫 Email: marco.m.wells@gmail.com <br>
+      * 📫 Email:<br>
       * 💻 Checkout my CV <a href="https://marcowells.com/" target="_blank" rel="noreferrer">Click here 🖱️ </a><br>
       *  🅵🅸🅻🅴1️⃣4️⃣ <a href="https://redm3.github.io/webgl/" target="_blank" rel="noreferrer">FILE 14 </a><br>
       *  <a href="https://github.com/redm3/HYPERLIQUID" target="_blank" rel="noreferrer">Machine Learning BTC Trading Bot in progress... </a><br>
